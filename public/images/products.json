@@ -1,0 +1,37 @@
+[
+    {
+      "name" : "ドラゴンボール",
+      "image" : "dragonball.jpg",
+      "type" : "ジャンプ"
+    },
+    {
+      "name" : "ワンピース",
+      "image" : "onepiece.jpg",
+      "type" : "ジャンプ"
+    },
+    {
+      "name" : "進撃の巨人",
+      "image" : "shingeki.jpg",
+      "type" : "ジャンプ"
+    },
+    {
+      "name" : "名探偵コナン",
+      "image" : "konan.jpg",
+      "type" : "少年サンデー"
+    },
+    {
+      "name" : "ゲゲゲの鬼太郎",
+      "image" : "kitarou.jpg",
+      "type" : "少年サンデー"
+    },
+    {
+      "name" : "ブルーロック",
+      "image" : "bluelock.jpg",
+      "type" : "その他"
+    },
+    {
+      "name" : "ようこそ実力至上主義の教室へ",
+      "image" : "youzitsu.jpg",
+      "type" : "その他"
+    }
+  ]
