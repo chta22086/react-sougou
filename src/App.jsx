@@ -70,9 +70,7 @@ export default function App() {
             }) : <p>No results to display!</p>}
           </main>
         </div>
-        <footer>
-          <p> 日本大学文理学部情報科学科Webプログラミングの演習課題 </p>
-        </footer>
+          <p> 5422086 飯野太尊 日本大学文理学部情報科学科Webプログラミングの演習課題 </p>
       </>
     );
   }
