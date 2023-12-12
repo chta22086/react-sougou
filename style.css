@@ -27,7 +27,7 @@ html {
   
   h2 {
     font-size: 2rem;
-    color: red;
+    color: white;
     text-align: right;
     width: 160px;
     position: absolute;
@@ -132,7 +132,7 @@ html {
   }
   
   section {
-    width: 45%;
+    width: 30%;
     margin: 5px;
     background-color: black;
     position: relative;
@@ -140,26 +140,12 @@ html {
   }
   
   section img {
-    width: 100%;
+    width: 150px;
     display: block;
     position: absolute;
     bottom: 0px;
   }
   
-  section p {
-    color: red;
-    background: black;
-    width: 50px;
-    height: 50px;
-    line-height: 50px;
-    text-align: center;
-    border-radius: 50%;
-    box-shadow: 2px 2px 1px red;
-    position: absolute;
-    right: 10px;
-    bottom: -6px;
-    z-index: 2000;
-  }
   
   .jump {
     background: black url(icons/jump.jpg) no-repeat 2px 2px;

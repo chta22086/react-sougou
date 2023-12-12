@@ -33,5 +33,30 @@
       "name" : "ようこそ実力至上主義の教室へ",
       "image" : "youzitsu.jpeg",
       "type" : "その他"
+    },
+    {
+      "name" : "呪術廻戦",
+      "image" : "jujutsu.jpeg",
+      "type" : "ジャンプ"  
+    },
+    {
+      "name" : "鬼滅の刃",
+      "image" : "kimetsu.jpeg",
+      "type" : "ジャンプ"  
+    },
+    {
+      "name" : "るろうに剣心",
+      "image" : "ruroken.jpeg",
+      "type" : "ジャンプ"  
+    },
+    {
+      "name" : "まじっく快斗1412",
+      "image" : "kid.jpeg",
+      "type" : "少年サンデー"  
+    },
+    {
+      "name" : "かぐや様は告らせたい",
+      "image" : "kaguya.jpeg",
+      "type" : "その他"
     }
   ]
